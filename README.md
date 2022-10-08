@@ -1,20 +1,5 @@
-### Hi there 👋
-
-<!--
-**Winfred-Mwendwa/Winfred-Mwendwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
-
-- 🔭 I’m currently working on a React App.<br>
-- 🌱 I’m currently learning React and Redux.<br>
-- 👯 I’m looking to collaborate with product designers on web development projects.<br>
-- 🤔 I’m looking for help with starting out in Tech.<br>
-- 💬 Ask me about JavaScript, SCSS/SASS, React.
-- 📫 How to reach me: nwendwawinfred8@gmail.com
-- ⚡ Fun fact: The first computer bug was an actual bug
--->
-
-
+I'm currently working on a React App.<br>I'm looking to collaborate with product designers on web development projects.<br>I'm looking to help with starting out in Tech.<br>I'm currently learning React and Redux.<br>Ask me about JavaScript, SCSS/SASS, React.
 
 
 ## 🌐 Socials:
@@ -38,4 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Winfred-Mwendwa&icon=0&color=0)](https://visitcount.itsvg.in)
-
