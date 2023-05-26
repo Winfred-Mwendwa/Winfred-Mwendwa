@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a React App.<br>I'm looking to collaborate with product designers on web development projects.<br>I'm looking to help with starting out in Tech.<br>I'm currently learning React and Redux.<br>Ask me about JavaScript, SCSS/SASS, React.
+I'm currently working on an Angular App.<br>I'm looking to collaborate with product designers on web development projects.<br>I'm looking to help with starting out in Tech.<br>I'm currently learning Angular.<br>Ask me about JavaScript,Typescrpt, SCSS/SASS, React, Angular.
 
 
 ## 🌐 Socials:
